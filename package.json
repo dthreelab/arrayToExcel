@@ -1,0 +1,27 @@
+{
+  "name": "arraytoexcel",
+  "version": "0.1.0",
+  "description": "implementation of exceljs for DThreelab to convert database data with images into excel sheets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dthreelab/arrayToExcel.git"
+  },
+  "keywords": [
+    "dthreelab",
+    "arraytoexcel",
+    "excel"
+  ],
+  "author": "Durgesh Satyam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dthreelab/arrayToExcel/issues"
+  },
+  "homepage": "https://github.com/dthreelab/arrayToExcel#readme",
+  "dependencies": {
+    "exceljs": "^1.7.0"
+  }
+}
